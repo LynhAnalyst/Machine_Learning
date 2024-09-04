@@ -30,3 +30,10 @@ Chap 2. SOME BASIC MACHINE LEARNING ALGORITHM
 Chap 3. SVM - SUPPORT VECTOR MACHINE
 
 Chap 4. NEURAL NETWORK
+
+## References
+Mã nguồn cuốn ebook "Machine Learning cơ bản", Vũ Hữu Tiệp.
+* ebook Machine Learning cơ bản [pdf-black_white](https://github.com/tiepvupsu/ebookMLCB/blob/master/book_ML.pdf), [pdf-color](https://github.com/tiepvupsu/ebookMLCB/blob/master/book_ML_color.pdf).
+* [Sách Deep Learning cơ bản](https://elearning.due.udn.vn/pluginfile.php/338825/mod_resource/content/1/S%C3%A1ch%20Deep%20Learning%20c%C6%A1%20b%E1%BA%A3n%20-%20v2.pdf).
+* 
+[Source] (https://github.com/tiepvupsu/ebookMLCB or https://machinelearningcoban.com.)
